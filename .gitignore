@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+*.VC.db
+*.VC.VC.opendb
+ipch/
+
+# Build outputs
+[Dd]ebug/
+[Rr]elease/
+x64/
+Win32/
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.lib.recipe
+*.obj
+*.pdb
+*.ipdb
+*.iobj
+*.ilk
+*.idb
+*.exp
+*.log
+*.tlog
+*.lastbuildstate
+*.recipe
+*.CppClean.log
+unsuccessfulbuild
+
+# Runtime/editor state
+imgui.ini

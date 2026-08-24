@@ -1,0 +1,12 @@
+* text=auto
+
+*.sln text eol=crlf
+*.vcxproj text eol=crlf
+*.vcxproj.filters text eol=crlf
+*.cpp text eol=crlf
+*.h text eol=crlf
+*.md text eol=lf
+
+*.lib binary
+*.ttf binary
+*.woff binary
