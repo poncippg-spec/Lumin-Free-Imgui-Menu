@@ -8,5 +8,6 @@
 *.md text eol=lf
 
 *.lib binary
+*.png binary
 *.ttf binary
 *.woff binary

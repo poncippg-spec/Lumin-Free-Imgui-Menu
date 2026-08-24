@@ -2,6 +2,16 @@
 
 Lumin is a C++20 Dear ImGui menu framework with a Direct3D 11 demo application. It includes a styled login flow, sidebar navigation, animated tab transitions, theme presets, glass overlays, toast notifications, and reusable widgets such as checkboxes, sliders, dropdowns, color pickers, keybinds, text fields, and search filters.
 
+## Preview
+
+<p align="center">
+  <img src="docs/media/lumin-interface.png" alt="Lumin framework interface" width="100%">
+</p>
+
+<p align="center">
+  <img src="docs/media/lumin-license.png" alt="Lumin demo license screen" width="46%">
+</p>
+
 ## Requirements
 
 - Windows 10 or Windows 11
